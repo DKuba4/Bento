@@ -20,7 +20,7 @@ const CONFIG = {
 	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Nights!',
+	greetingNight: 'Noches!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'Trello',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://www.trello.com',
 		},
 		{
 			id: '4',
@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Virtual Campus',
+					link: 'https://campusvirtual.urv.cat/my/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Immich',
+					link: 'http://188.78.129.33:30041/photos',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Octoprint',
+					link: 'http://188.78.129.33:5000/',
 				},
 			],
 		},
