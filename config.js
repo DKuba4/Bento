@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Kuba',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -20,7 +20,7 @@ const CONFIG = {
 	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'Nights!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
