@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Immich',
+					link: 'http://188.78.129.33:30041/photos',
 				},
 				{
 					name: 'Virtual Campus',
 					link: 'https://campusvirtual.urv.cat/my/',
 				},
 				{
-					name: 'Immich',
-					link: 'http://188.78.129.33:30041/photos',
-				},
-				{
 					name: 'Octoprint',
 					link: 'http://188.78.129.33:5000/',
+				},
+				{
+					name: 'Linkedin',
+					link: 'https://www.linkedin.com',
 				},
 			],
 		},
