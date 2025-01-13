@@ -26,7 +26,7 @@
   --cards: #e4e6e6; /* Cards color */
   /*Search bar*/
   --searchBoxColor:rgba(228, 230, 230, 0.007);
-  --imgGoogle: url('/assets/icons/google-iconWhite.png');
+  --imgGoogle: url('assets/icons/google-iconWhite.png');
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
@@ -47,7 +47,7 @@
   --sfg: #2c292e; /* Secondary Foreground color */
 
   /*Search bar*/
-  --imgGoogle: url('/assets/icons/google-iconDark.png');
+  --imgGoogle: url('assets/icons/google-iconDark.png');
   --searchBoxColor:#2f2f3034;
 
   /* Image background  */
